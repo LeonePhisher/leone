@@ -111,10 +111,10 @@
 
 <p>
   <a href="mailto:lennyayumu@example.com" target="_blank">
-<!--     <img alt="Email" src="https://img.shields.io/badge/Email-ayumulenny51@gmail.com-black?logo=gmail"/> -->
+    <img alt="Email" src="https://img.shields.io/badge/Email-ayumulenny51@gmail.com-black?logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/lenny-ayumu-6a14972b2/">
-<!--     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LennyAyumu-0A66C2?logo=linkedin&logoColor=white"/> -->
+    <img alt="LinkedIn" src="https://img.shields.io/badge/www.linkedin.com/in/lenny-ayumu-6a14972b2/?logo=linkedin&logoColor=white"/>
   </a>
  
 </p>
