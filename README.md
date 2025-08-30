@@ -78,13 +78,13 @@
 
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img alt="Python" src="#"/>
+  <img alt="JavaScript" src="#"/>
+  <img alt="React" src="#"/>
+  <img alt="Node.js" src="#"/>
+  <img alt="Git" src="#"/>
+  <img alt="Linux" src="#"/>
+  <img alt="Docker" src="#"/>
 </p>
 
 ---
@@ -96,24 +96,7 @@
 - 🥇 **Certifications:** Professional Foundations
 
 
-## 📈 GitHub at a Glance
 
-<div align="center">
-
-<img alt="GitHub Stats" 
-     src="https://github-readme-stats.vercel.app/api?username=lennyayumu&show_icons=true&include_all_commits=true&count_private=true"/>
-
-<br/>
-
-<img alt="Top Languages" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lennyayumu&layout=compact"/>
-
-<br/>
-
-<img alt="Streak" 
-     src="https://streak-stats.demolab.com?user=lennyayumu"/>
-
-</div>
 
 ---
 
