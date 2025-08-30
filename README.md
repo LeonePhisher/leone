@@ -109,12 +109,10 @@
 
 ## 🏆 Highlights
 
-- 🎓 **ALX Software Engineering Program** — <em>Cohort 2025</em>  
+- 🎓 **ALX Aspiring Backend developer** — <em>Cohort 2025</em>  
 - 🧰 **Capstone:** Building a scalable task manager web app for productivity.  
-- 🥇 **Certifications:** Linux Foundation Training (in progress).  
-- ✍️ **Writing:** [Blog on Dev.to](https://dev.to/lennyayumu)  
+- 🥇 **Certifications:** Professional Foundations
 
----
 
 ## 📈 GitHub at a Glance
 
@@ -148,20 +146,16 @@
 
 <p>
   <a href="mailto:lennyayumu@example.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-lennyayumu%40example.com-black?logo=gmail"/>
+    <img alt="Email" src="https://img.shields.io/badge/Email-ayumulenny51@gmail.com-black?logo=gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/lennyayumu" target="_blank">
+  <a href="https://www.linkedin.com/in/lenny-ayumu-6a14972b2/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LennyAyumu-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/lennyayumu" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-@lennyayumu-1DA1F2?logo=twitter&logoColor=white"/>
-  </a>
+ 
 </p>
 
----
 
-<p align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/lennyayumu">Lenny Ayumu</a>. Last updated: 2025-08-30.</sub>
-</p>
+
+
 
 
