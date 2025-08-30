@@ -6,11 +6,11 @@
 <h1>Hi, I'm <span style="color:#0ea5e9">Lenny Ayumu</span> 👋</h1>
 
 <p>
-  <strong>ALX Software Engineering</strong> Learner &bull; Aspiring <strong>Full-Stack Developer</strong>
+  <strong>ALX Backend Development</strong> Learner &bull; Aspiring <strong>Full-Stack Developer</strong>
 </p>
 
 <p>
-  <em>This is why I started with software engineering:</em> <strong>To solve real-world problems using technology and to create opportunities for myself and others.</strong><br/>
+  <em>This is why I started with Backend development:</em> <strong>To solve real-world problems using technology and to create opportunities for myself and others.</strong><br/>
   <em>What I’m passionate about:</em> <strong>Building impactful applications, collaborating on open-source, and continuous learning.</strong><br/>
   <em>My vision:</em> <strong>To become a world-class software engineer who builds scalable solutions that improve lives across Africa and beyond.</strong>
 </p>
