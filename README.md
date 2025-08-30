@@ -23,16 +23,15 @@
 <br/>
 
 <p>
-  <a href="mailto:thackme39@gmail.com" target="_blank">
-    <img alt="Hire me" src="https://img.shields.io/badge/Hire%20Me-Email%20Me-blue?style=for-the-badge"/>
+  <a href="mailto:thackme39@gmail.com">
+    <img alt="Hire me" src="thackme39@gmail.com">
   </a>
-  <a href="https://www.linkedin.com/in/lennyayumu" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/lennyayumu">
+
   </a>
-  <a href="https://lennyayumu.dev" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/lennyayumu?tab=repositories" target="_blank">
+  
+  
+  <a href="https://github.com/LeonePhisher?tab=repositories">
     <img alt="Repositories" src="https://img.shields.io/badge/Repositories-Browse-%230ea5e9?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -59,36 +58,19 @@
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/lennyayumu/alx-system_engineering-devops">System Engineering & DevOps</a></h3>
-      <p>Hands-on DevOps, shell scripting, and system engineering tasks from ALX curriculum. Strengthened my understanding of Linux systems and automation.</p>
+      <h3><a href="https://github.com/LeonePhisher/">System Engineering & DevOps</a></h3>
+      <p>Hands-on DevOps, shell scripting, and backend development tasks from ALX curriculum. Strengthened my understanding of Linux systems and automation.</p>
       <p>
         <img alt="Stars" src="https://img.shields.io/github/stars/lennyayumu/alx-system_engineering-devops?style=social"/>
       </p>
       <p>
         <strong>Tech:</strong> Bash · Linux · Git
       </p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/lennyayumu/printf">Custom Printf</a></h3>
-      <p>A C implementation of the printf function, demonstrating understanding of variadic functions, memory management, and modular design.</p>
-      <p>
-        <img alt="Stars" src="https://img.shields.io/github/stars/lennyayumu/printf?style=social"/>
-      </p>
-      <p>
-        <strong>Tech:</strong> C · Memory Management · Algorithms
-      </p>
-    </td>
+    
   </tr>
 </table>
 
-<details>
-  <summary><strong>More Projects</strong></summary>
 
-- <a href="https://github.com/lennyayumu/simple_shell">Simple Shell</a> — Built a custom shell in C, reinforcing OS concepts.  
-- <a href="https://github.com/lennyayumu/alx-higher_level_programming">Python Projects</a> — Object-oriented and scripting projects in Python.  
-- <a href="https://github.com/lennyayumu/alx-low_level_programming">Low-Level Programming</a> — Mastery of pointers, memory allocation, and recursion in C.  
-
-</details>
 
 ---
 
@@ -146,10 +128,10 @@
 
 <p>
   <a href="mailto:lennyayumu@example.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-ayumulenny51@gmail.com-black?logo=gmail"/>
+<!--     <img alt="Email" src="https://img.shields.io/badge/Email-ayumulenny51@gmail.com-black?logo=gmail"/> -->
   </a>
   <a href="https://www.linkedin.com/in/lenny-ayumu-6a14972b2/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LennyAyumu-0A66C2?logo=linkedin&logoColor=white"/>
+<!--     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LennyAyumu-0A66C2?logo=linkedin&logoColor=white"/> -->
   </a>
  
 </p>
